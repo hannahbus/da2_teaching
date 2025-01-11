@@ -1,4 +1,4 @@
-# Teaching Materials for Data Analysis II: Python Introduction
+# Teaching Materials for Data Analytics II: Python Introduction
 
 ## Overview
 This repository contains the teaching materials for the **Python Introduction** module in **Data Analysis II (DA2)**. The materials are designed to provide a hands-on, interactive learning experience. The primary tools are Jupyter Notebooks, which can be run in presentation mode to combine **slides-style teaching** with **interactive coding**.
